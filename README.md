@@ -4,6 +4,7 @@ This is a simple plugin for Chartist.js that will add some customizable legends 
 
 **note:make sure extra space have been allocated by setting "padding" of the chart so that the legend-wrapper can be rendered.**
 
+![null](./img/demo.png)
 ## Download 
 The easiest way to get started, using npm
 ```
